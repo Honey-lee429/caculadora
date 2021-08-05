@@ -1,0 +1,38 @@
+* {
+  margin-bottom: 10px;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  align-items: center;
+  box-sizing: border-box;
+  background-color: #c76cc7;
+  font-size: 12pt;
+  margin-top: 100px;
+}
+
+label {
+  font-weight: bold;
+  font-size: 2em;
+  color: aliceblue;
+}
+
+input {
+  padding: 10px;
+  text-align: center;
+}
+
+span {
+  font-size: 18pt;
+  color: rgb(43, 6, 77);
+}
+
+button {
+  padding: 10px;
+  border-radius: 8px;
+  border: none;
+}
+
+
